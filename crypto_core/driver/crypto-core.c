@@ -776,5 +776,5 @@ static struct platform_driver ct_driver = {
 
 module_platform_driver(ct_driver);
 MODULE_DESCRIPTION("Crypto Core driver");
-MODULE_AUTHOR("Alberto Castronovo, ...");
-MODULE_LICENSE("GPL");
+MODULE_AUTHOR("Matteo Carnevale, Alberto Castronovo, Giuseppe Cutrera, Luigi Palmisano.");
+MODULE_LICENSE("BY-NC 4.0");
