@@ -932,6 +932,10 @@ static void crypto_core_write(
 
 		case REG_IN_HEX:
 			s->in_hex = (uint32_t)value;
+			uint32_to_uint8(s->in_0, to_enc_dec);
+			uint32_to_uint8(s->in_1, to_enc_dec+4);
+			uint32_to_uint8(s->in_2, to_enc_dec+8);
+			uint32_to_uint8(s->in_3, to_enc_dec+12);
 			break;
 
 		case REG_IV_HEX:
