@@ -4,4 +4,4 @@ This repository hosts the project made by Matteo Carnevale, Alberto Castronovo, 
 
 AES-256 functionalities: https://github.com/kokke/tiny-AES-C/
 
-Quick setup link: https://drive.google.com/drive/folders/17DZCIGpnqURDufuf9C5P-25jaKXGV-Ly?usp=sharing
+Quick setup link (to download QEMU and BUILDROOT folders without following the setup steps): https://drive.google.com/drive/folders/17DZCIGpnqURDufuf9C5P-25jaKXGV-Ly?usp=sharing
